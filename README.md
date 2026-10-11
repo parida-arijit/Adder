@@ -54,7 +54,7 @@ The Han–Carlson architecture combines features of the Kogge–Stone and Brent�
 ## Tools Required
 
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) – Verilog compilation and simulation
-- [GTKWave](https://gtkwave.sourceforge.net/) – optional waveform visualization
+- [GTKWave](https://gtkwave.sourceforge.net/) – Waveform visualization
 - Git – version control
 
 ## Simulation and Verification
@@ -108,7 +108,3 @@ The exact output depends on the testbench implementation. A zero-failure result 
 - Generate and inspect simulation waveforms using GTKWave
 - Perform exhaustive or formal equivalence checking
 - Compare the architectures under identical synthesis constraints
-
-## License
-
-No license has been specified yet.
